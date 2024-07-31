@@ -6,7 +6,7 @@ Here you’ll find a showcase of my work, projects, and code. Welcome to my GitH
 
 
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="tableau" width="40" height="40"/> 
